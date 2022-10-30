@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\begin{figure}[ht!]
+\centering
+\subfloat[]{\includegraphics[width=70mm,height = 50mm]{${1:example}.PNG}}
+\subfloat[]{\includegraphics[width=70mm,height = 50mm]{${2:example}.PNG}}\\
+\subfloat[]{\includegraphics[width=70mm,height = 50mm]{${3:example}.PNG}}
+\end{figure}
+$0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>incfigs</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex</scope>
+</snippet>
