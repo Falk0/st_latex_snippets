@@ -8,7 +8,16 @@
 \usepackage[english]{babel}
 \usepackage{amsmath, amssymb}
 \usepackage{natbib}
+\usepackage{float} 
+\usepackage[caption = false]{subfig}
 \usepackage{listings}
+\lstset{
+    breaklines=true,
+    basicstyle=\tt\normalsize,
+    keywordstyle=\color{blue},
+    identifierstyle=\color{magenta},
+    frame = single
+} 
 % figure support
 \usepackage{import}
 \usepackage{xifthen}
