@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+\begin{figure}[ht!]
+\centering
+\includegraphics[width=80mm]{${1:example}.png}
+\caption{${2:Example of caption}}
+\label{fig:${3:example}}
+\end{figure}
+$0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>incfig</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex</scope>
+</snippet>
