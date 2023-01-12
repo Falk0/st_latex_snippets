@@ -1,9 +1,10 @@
 <snippet>
 	<content><![CDATA[
-\textbf{$1}$0
+\begin{bmatrix} $1& $2 \\\ 
+                $3& $4\end{bmatrix} $0
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>bf</tabTrigger> 
+	<tabTrigger>bmat22</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.tex</scope>
 </snippet>
