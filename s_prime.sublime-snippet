@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-\$$0\$
+s^{\prime}$0
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>mk</tabTrigger>
+	<tabTrigger>sp</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>text.tex</scope>
+	<scope>text.tex</scope> 
 </snippet>

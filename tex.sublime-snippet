@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\text{$1}$0
+\text{$0}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>tex</tabTrigger>
